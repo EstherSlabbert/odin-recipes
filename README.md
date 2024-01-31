@@ -1,4 +1,4 @@
-# Project: Recipes | Odin Project
+# The Odin Project: Recipes
 
 This is a project outlined by [The Odin Project](https://www.theodinproject.com) for learning and showcasing some basic HTML and CSS.
 
